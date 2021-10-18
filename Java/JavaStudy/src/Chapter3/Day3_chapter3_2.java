@@ -1,4 +1,4 @@
-//산술 연산 전 오버플로우 탐지
+package Chapter3;//산술 연산 전 오버플로우 탐지
 
 public class Day3_chapter3_2 {
     public static void main(String[] args) {

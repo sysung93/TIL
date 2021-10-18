@@ -1,3 +1,5 @@
+package Chapter3;
+
 public class Day4_chapter3_Quiz3 {
     public static void main(String[] args) {
        //문제 6

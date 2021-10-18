@@ -1,3 +1,5 @@
+package Chapter2;
+
 public class Day2_변수와타입 {
     public static void main(String[] args) {
          //변수값읽기

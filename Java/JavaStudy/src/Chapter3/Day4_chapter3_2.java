@@ -1,3 +1,5 @@
+package Chapter3;
+
 public class Day4_chapter3_2 {
     public static void main(String[] args) {
         // 입력값의 NaN 검사

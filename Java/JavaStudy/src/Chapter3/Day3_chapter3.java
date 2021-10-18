@@ -1,3 +1,5 @@
+package Chapter3;
+
 public class Day3_chapter3 {
     public static void main(String[] args) {
         //연산의 방향과 우선순위
