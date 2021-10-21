@@ -30,9 +30,9 @@ public class Day7_Exercise09 {
             if(selectNO == 1) {
                 System.out.print("학생수> ");
                 studentNum = scanner.nextInt();
+
             } else if(selectNO == 2) {
                 scores = new int[studentNum];
-
                 for(int i = 0; i < scores.length; i++) {
                     System.out.print("scores[" + i + "]> ");
                     scores[i] = scanner.nextInt();
