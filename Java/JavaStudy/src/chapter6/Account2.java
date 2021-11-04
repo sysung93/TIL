@@ -26,7 +26,7 @@ public class Account2 {
         this.owner = owner;
     }
 
-    public String getBalance() {
+    public int getBalance() {
         return balance;
    }
 
