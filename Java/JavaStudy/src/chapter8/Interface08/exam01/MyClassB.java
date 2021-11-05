@@ -1,4 +1,4 @@
-package chapter8.Interface07.exam01;
+package chapter8.Interface08.exam01;
 
 public class MyClassB implements MyInterface{
     @Override

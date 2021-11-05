@@ -1,4 +1,4 @@
-package chapter8.Interface07.exam02;
+package chapter8.Interface08.exam02;
 
 public interface ChildInterface2 extends ParentInterface{
     @Override
