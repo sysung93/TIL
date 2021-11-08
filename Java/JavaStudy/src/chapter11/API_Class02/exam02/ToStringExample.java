@@ -1,4 +1,4 @@
-package chapter11.API_Class02.exam01;
+package chapter11.API_Class02.exam02;
 
 import java.util.Date;
 
