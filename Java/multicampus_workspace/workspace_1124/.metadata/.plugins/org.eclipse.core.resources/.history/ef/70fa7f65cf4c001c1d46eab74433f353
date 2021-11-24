@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class exam03 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int performance = sc.nextInt();
+		double performance_pay = (performance - 1000) * 0.1;
+		
+		if(performance > 1000) {
+			System.out.println((int)(performance_pay) + "만원");
+		} else {
+			System.out.println("성과급이 없습니다.");
+		}
+
+	}
+
+}

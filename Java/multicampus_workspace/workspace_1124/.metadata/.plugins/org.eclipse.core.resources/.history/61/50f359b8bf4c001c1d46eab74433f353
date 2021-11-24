@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Exam01 {
+	public static void main(String[] args) {
+	
+		Scanner sc = new Scanner(System.in);
+		
+		int time = sc.nextInt();
+		int pay = sc.nextInt();
+		int weekpay;
+		double overweekpay;
+		
+		if(time < 21) {
+			weekpay = time * pay;
+			System.out.println(weekpay);
+		} else {
+			weekpay = time * pay;
+			overweekpay = (((time-20) * pay) * 0.5 );
+			System.out.println(weekpay+overweekpay);
+		}
+		
+	}
+}

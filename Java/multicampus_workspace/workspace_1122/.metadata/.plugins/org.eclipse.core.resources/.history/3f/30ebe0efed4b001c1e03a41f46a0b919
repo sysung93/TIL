@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+//화페개수세기
+/*(연습문제 2) 화폐개수 세기
+10만원 짜리 수표가 들어가는 자판기를 만들려고 합니다. 
+자판기에 수표를 입력하면 거스름돈을 계산하여 정확하게 필요한 
+화폐들의 개수를 계산하여야 합니다. 
+이를 계산하는 프로그램을 작성하시오.
+*/
+public class exam02 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int a = sc.nextInt();
+		
+		int num500 = (a/10000);
+		
+		
+		System.out.println("10000------->" + num500 + "장");
+	}
+
+}

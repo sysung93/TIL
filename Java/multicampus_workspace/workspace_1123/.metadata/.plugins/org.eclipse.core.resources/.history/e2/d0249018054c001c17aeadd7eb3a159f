@@ -1,0 +1,20 @@
+
+public class Chartest {
+	public static void main(String[] args) {
+		char c;
+		c = 'A';
+		System.out.println(c);
+		
+		String word = "단어";
+		System.out.println(word);
+		
+		System.out.println("문장을\n나누자"); //줄바꿈
+		System.out.println("문장을\t나누자"); //탭
+		System.out.println("문장을\b나누자"); //앞으로 한칸
+		System.out.println("문장을\r\n나누자"); //줄바꿈후 첫글짜
+		System.out.println("문장을\\나누자");
+		System.out.println("\'문장을\'나누자");
+	}
+	
+
+}

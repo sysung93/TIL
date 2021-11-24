@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class exam04 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		double F = sc.nextDouble();
+		double C = (F - 32) * 0.55;
+		
+		System.out.printf("È­¾¾ %d´Â ¼·¾¾ %d ÀÌ´Ù.", F,C);
+	}
+
+}

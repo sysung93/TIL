@@ -1,0 +1,16 @@
+package starDistance;
+public class StarDistance {
+
+	public static void main(String[] args) {
+		int speed = 300000;
+		int period = 365 * 24 * 60 * 60;
+		
+		int result = speed * period;
+		
+		System.out.println(result);
+		
+		
+
+	}
+
+}

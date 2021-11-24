@@ -1,0 +1,13 @@
+
+public class Chartest {
+	public static void main(String[] args) {
+		char c;
+		c = 'A';
+		System.out.println(c);
+		
+		String word = "´Ü¾î";
+		System.out.println(word);
+	}
+	
+
+}
