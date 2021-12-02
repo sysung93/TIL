@@ -15,15 +15,16 @@ public class NumberGameMgr {
 			
 			int menu = sc.nextInt();
 			switch(menu) {
-			case 1: NumberGame ng = new NumberGame();
-			list.add(ng);
-			ng.start();
-			break;
-			
-			case 2: //displayHistory();
-			break;
-			
-			case 3: return;
+			case 1:
+				NumberGame ng = new NumberGame();
+				list.add(ng);
+				ng.start();
+				break;
+			case 2:
+				this.displayHistory();
+				break;
+			case 3:
+				return;
 			}
 		} while(true);
 	}
@@ -33,11 +34,13 @@ public class NumberGameMgr {
 		//총 x번 시도해서 x번 맞췄습니다.
 		//for(클래스명 변수명 : 객체배열)
 		for(NumberGame game: list) {
-			System.out.print(game.computer + "\t");
+			System.out.print("정답: "+ game.computer + "\t");
+			System.out.println("사용자추측 정답: ");
 			for(int a : game.person) {
 				System.out.print(a + "\t");
-			} System.out.print(game.match + "\t");
-			System.out.println(game.count);
+			}
+			System.out.print("정답여부: " + game.match + "\t");
+			System.out.println("사용기회횟수: " + game.count);
 		}
 		
 		int cnt = 0;

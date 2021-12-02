@@ -18,14 +18,13 @@ public class NumberGame {
 	Scanner sc = new Scanner(System.in);
 	
 	public NumberGame() {
-		super();
 		Random rand = new Random();
 		computer = rand.nextInt(10) + 1;
 	}
 	
 	public void start() {
 		
-		while(!match && count < 5) {
+		while(match == false && count < 5) {
 			System.out.println("¼ýÀÚ : ");
 			int temp = sc.nextInt();
 			person.add(temp);
