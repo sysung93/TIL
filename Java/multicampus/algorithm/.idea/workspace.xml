@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05de7863-e009-4f3b-9b67-5de87388af1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/multicampus_workspace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/algorithm_1217.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/src/SearchMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/src/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1217/src/baseball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/algorithm_1220.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/src/DoubleLinkedList/com/woori/util/DoubleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/src/DoubleLinkedList/com/woori/util/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/src/com/woori/myapp/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/src/com/woori/myapp/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/src/com/woori/myapp/UseMyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/src/com/woori/myapp2/MyDic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/src/com/woori/myapp2/MyDicManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm_1220/src/com/woori/myapp2/UseMyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../p_algorithm&amp;data_structure/algorithm_chaper1/src/Multi99Table_Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../p_algorithm&amp;data_structure/algorithm_chaper1/src/Multi99Table_Q16.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="22ZZaVCKjmWeenmUDiMAenM2g72" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm_1217" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05de7863-e009-4f3b-9b67-5de87388af1a" name="Changes" comment="" />
+      <created>1640047134393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640047134393</updated>
+    </task>
+    <servers />
+  </component>
+</project>

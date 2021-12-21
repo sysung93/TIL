@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/multicampus.iml" filepath="$PROJECT_DIR$/multicampus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm_chapter2.iml" filepath="$PROJECT_DIR$/algorithm_chapter2.iml" />
     </modules>
   </component>
 </project>
