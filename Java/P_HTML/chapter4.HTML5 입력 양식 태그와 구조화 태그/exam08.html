@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <table>    
+            <tr><td>시작그룹</td></tr>
+            <tr>
+                <td>
+                    <input id="pageOpen" type="radio" name="startgroup">
+                    <label for="pageOpen">새 탭페이지 열기</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="continue" type="radio" name="startgroup">
+                    <label for="continue">중단한 위치에서 계속하기</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="groupOpen" type="radio" name="startgroup">
+                    <label for="groupOpen">특정 페이지 또는 페이지 모음 열기</label>
+                </td>
+            </tr>
+            
+            <br>
+
+            <tr><td>개인정보 및 보안</td></tr>
+            <tr>
+                <td><input id="service" type="checkbox" name=security></td>
+                <label for="service">동기화 및 서비스</label>
+            </tr>
+            <tr>
+                <td><input id="login" type="checkbox" name=security></td>
+                <label for="login">로그인 허용</label>
+            </tr>
+            <tr>
+                <td><input id="preload" type="checkbox" name=security></td>
+                <label for="preload">페이지 미리 로드</label>
+            </tr>
+            
+        </table>
+</form>
+</body>
+</html>

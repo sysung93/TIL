@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<!--이미지 : bmp(비트맵), 용량이 너무 커서 웹을 통해서 비트맵을 보내면 느려서 압축버전을 만들었음
+압축버전은 jpg, jpeg라고 부르고 동영상(avi) 압축버전은 mpeg 사용하기로 함
+jpg, jpeg
+png - 배경이 투명한 이미지, 휴대폰용으로 만들었던 형식, 가장 많이 사용
+git - 움직이는 모습
+
+img 태그의 src에 경로가 잘못되면 이미지가 안나온다.
+그 때 대체문자 이미지에 대한 설명을 alt속성에 넣어줘야 한다
+웹접근성 - 무조건 그 사이트에 접근이 가능해야한다.
+-->
+<a href="http://www.naver.com"><img src="./images/5.jpg" alt="고양이그림" width="200" height="200"></a>
+<img src="./images/1.jpg" alt="고양이" width="200" height="200">
+<img src="./images/2.jpeg" alt="고양이 width="200" height="200">
+<img src="./images/3.jpg" alt="고양이 width="200" height="200">
+<img src="./images/4.jpg" alt="고양이 width="200" height="200">
+<img src="./images/a.gif" alt="나르샤 width="200" height="200">
+
+<!--a태그는 자식 태그를 가질 수 없다. a태그 안에 다른  태그를 못 둔다-->
+<h1><a href="http://www.naver.com">제목1</a></h1>
+
+<h1 style="color: rgb(44, 46, 46);">회색글씨</h1>
+<h1 style="color: rgb(34, 155, 155);">민트색글씨</h1>
+
+<!--컴퓨터에서 색상정보를 저장하기 위해서 4byte가 할당된다
+각 byte는 부호가 없을때 
+00000000 ~ 11111111
+0~255
+00~FF
+r, g, b 값이 작으면 빛이 없음 크면 최대로 빛을 쏜다-->
+
+</body>
+</html>
