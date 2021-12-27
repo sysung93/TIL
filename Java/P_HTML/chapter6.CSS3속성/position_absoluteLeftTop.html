@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS3 Property Basic</title>
+    <style>
+        .box {
+            width: 100px; height: 100px;
+            position: absolute;
+        }
+        
+        /*모든 웹 브러우저의 출력 방식을 통일하려면 left 속성과 top 속성을 적용해야 한다
+        기본적으로 뒤에 작성한 코드 태크가 상위로 올라감*/
+
+        .box:nth-child(1) {
+            background-color: red;
+            left: 10px; top: 10px;}
+        .box:nth-child(2) {
+            background-color: green;
+            left: 50px; top: 50px;}
+        .box:nth-child(3) {
+            background-color: blue;
+            left: 90px; top: 90px;}
+    </style>
+</head>
+<body>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+</body>
+</html>

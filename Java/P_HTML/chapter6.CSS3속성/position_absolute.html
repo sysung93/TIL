@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS3 Property Basic</title>
+    <style>
+        /*요소의 위치 지정 형식을 설정할 때 position 속성 사용
+        절대 위치 좌표 사용 : position + absolute or fixed
+        상대 위치 좌표 사용 : position + static or relatve
+        
+        absolute : 절대 위치 좌표 설정
+        fixed : 화면을 기준으로 절대 위치 좌표 설정
+        relative : 초기 위치에서 상하좌우로 위치 이동
+        static : 위쪽에서 아래쪽으로 순서대로 배치*/
+        
+        
+        .box {
+            width: 100px; height: 100px;
+            position: absolute;
+        }
+        .box:nth-child(1) {background-color: red;}
+        .box:nth-child(2) {background-color: green;}
+        .box:nth-child(3) {background-color: blue;}
+    </style>
+</head>
+<body>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display</title>
+    <style>
+        /*스타일 id에 지정할 경우 (#id {})로 사용, 원칙적으로 하나의 객체에만 적용 가능
+        class에 지정할경우 (.클래스명 {}) 사용, 여러 객체에 적용 가능*/
+        
+        /*dlsplay 속성에 none 키워드를 적용하면 태그가 화면에서 안보임*/
+        #box{
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!--span 은 문자열을 원하는 부분에만 선택해서 시각적 효과를 줄 수 있음 span id = "이름" span class = "이름"
+    div는 하나 이상의 요소(태그)를 묶어서 스타일을 지정할때 사용-->
+    <span>더미 객체</span>
+    <div id="box">대상 객체</div>
+    <span>더미 객체</span>
+</body>
+</html>
