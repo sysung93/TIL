@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script>
+        window.onload = function() {
+            var input_1 = document.querySelectorAll('input')[0];
+            var input_2 = document.querySelectorAll('input')[1];
+
+            input_1.onkeydown = function() {
+                if(6 <= input_1.value.length){
+                    input_2.focus();
+                }
+            }
+            input_2.onkeydown = function (event) {
+            var event = event || window.event;
+                if(event.keyCod == 8 && input_2.value.length == 0) {
+                input_1.focus();
+                }
+            }
+        };
+
+        
+    </script>
+</head>
+<body>
+    <input type="text" maxlength="6">
+    <span>-</span>
+    <input type="text" maxlength="7">
+</body>
+</html>
