@@ -10,10 +10,21 @@
         $(document).ready(function() {
             var appendDocument = function() {
                 for(var i = 0; i < 20; i++){
-                    $('<h1>Infinity Scroll</h1>').appendTo
+                    $('<h1>Infinity Scroll</h1>').appendTo('body');
                 }
-            }        
-        })
+            };
+
+            appendDocument;
+
+            $(window).scroll(function(){
+                var scrollHeight = $(window).scrollTop() + $(window).height();
+                var doucumentHeight = $(window).height();
+
+                if(scrollHeight == documentHeight){
+                    appendDocument();
+                }
+            });
+        });
     </script>
 </head>
 <body>
