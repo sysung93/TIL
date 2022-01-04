@@ -53,8 +53,49 @@ function Person(name, age){
 }
 // const person4 = makePerson('ellie', 30);
 const person4 = new Person('ellie', 30)
-console.log(person4)
+//console.log(person4)
 
 //5. in operator
-console.log('name' in ellie)
+console.log('name' in ellie);
+console.log('age' in ellie);
+console.log('random' in ellie);
+console.log(ellie.random);
 
+/*6. for...in vs for...of
+
+for(key in ellie) {
+    //ellie가 가지고 있는 key들이 for문을 돌때마다 지역변수에 할당 된다.
+    console.log(key);
+}
+//배열리스트
+const array = [1, 2 ,3 ,4];
+// for(let i = 0; i < array.length; i++){
+//     console.log(i);
+// }
+
+ for(value of array){
+     console.log(value);
+}*/
+
+//7. Fun cloning
+console.clear();
+
+const user = {name: 'ellie', age: '20'};
+const user2 = user;
+user2.name = 'coder';
+
+console.log(user2)
+
+//old way
+const user3 = {};
+for(key in user){
+    user3[key] = user[key];
+}
+console.log(user3);
+
+
+// const user4 = {};
+// Object.assign(user4, user);
+
+const user4 = Object.assign({}, user);
+console.log(user4);
