@@ -18,7 +18,7 @@ async function getApple() {
 
 async function getBanana() {
     await delay(1000);
-    return'🍌';
+    return '🍌';
 }
 
 // function picFruits() {
@@ -30,9 +30,24 @@ async function getBanana() {
 // }
 
 async function picFruits() {
-    const apple = await getApple();
-    const banana = await getBanana();
-    retrun `${apple} + ${banana}`;
+    const applePromise = getApple();
+    const bananaPromise = getBanana();
+    const apple = await applePromise;
+    const banana = await bananaPromise;
+    return `${apple} + ${banana}`;
 }
 
 picFruits().then(console.log)
+
+//3.useful Promise APIs
+function pickAllFruits() {
+    return Promise.all([getApple(), getBanana()])
+    .then(fruits => fruits.join(' + ')
+    );
+}
+pickAllFruits().then(console.log)
+
+function pickOnlyOne() {
+    return Promise.race([getApple(), getBanana()])
+}
+pickOnlyOne().then(console.log)
