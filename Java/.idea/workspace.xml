@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b78e3050-b0f5-4492-91ed-dbe74f09582e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P_HTML/chapter5.CSS3기초/desc_descendants.html" beforeDir="false" afterPath="$PROJECT_DIR$/P_HTML/chapter5.CSS3기초/desc_descendants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P_FrontEnd/p_Bootstrap5/Project1/asset/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/P_FrontEnd/p_Bootstrap5/Project1/asset/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P_FrontEnd/p_Bootstrap5/Project1/asset/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/P_FrontEnd/p_Bootstrap5/Project1/asset/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P_FrontEnd/p_Bootstrap5/Project1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/P_FrontEnd/p_Bootstrap5/Project1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaStudy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multicampus/front_end/frontProject" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
