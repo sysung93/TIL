@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0fe56a8-ea56-4e4e-8101-84e51360cbdf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/multicampus_workspace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/algorithm_1217.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/src/SearchMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/src/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1217/src/baseball.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/algorithm_1220.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/src/DoubleLinkedList/com/woori/util/DoubleLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/src/DoubleLinkedList/com/woori/util/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/src/com/woori/myapp/MyList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/src/com/woori/myapp/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/src/com/woori/myapp/UseMyList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/src/com/woori/myapp2/MyDic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/src/com/woori/myapp2/MyDicManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_1220/src/com/woori/myapp2/UseMyList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../p_algorithm&amp;data_structure/algorithm_chaper1/src/Multi99Table_Q16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../p_algorithm&amp;data_structure/algorithm_chaper1/src/Multi99Table_Q16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end/Project/multicampus_Project1/Project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end/Project/multicampus_Project1/Project1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +24,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

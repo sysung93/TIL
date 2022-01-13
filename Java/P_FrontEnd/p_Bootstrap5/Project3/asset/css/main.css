@@ -1,0 +1,30 @@
+/*Global*/
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+body, h1, h2, h3, h4, h5, h6, p, span, small, ul, li, input, select, textarea, table, th, td {
+  font-family: 'Nutio', sans-serif !important;
+  font-size: normal;
+  font-style: normal;
+}
+
+.rgba-black-light {
+  background-color: rgba(0, 0, 0, 0.35);
+}
+
+.rgba-balck-string {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+/*Nav_bar*/
+.navbar .navbar-nav .nav-item {
+  position: end;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+  color: #fff;
+}
+
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+  color: #9e9e9e !important;
+  font-size: 0.85rem;
+}
+
