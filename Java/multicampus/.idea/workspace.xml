@@ -2,9 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0fe56a8-ea56-4e4e-8101-84e51360cbdf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/CookiePjt/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/CookiePjt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/CookiePjt/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/CookiePjt/src/main/java/com/servlet/loginCon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/CookiePjt/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/CookiePjt/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/CookiePjt/src/main/webapp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/CookiePjt/src/main/webapp/loginOk.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/EncodingPjt/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/EncodingPjt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/EncodingPjt/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/EncodingPjt/src/main/java/com/servlet/MSignUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/EncodingPjt/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/EncodingPjt/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/EncodingPjt/src/main/webapp/formEx.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/EncodingPjt/src/main/webapp/mSignUp.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSP/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSP/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSP/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/Footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/Hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/World.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/firstPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/jspEx.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/mSingUp.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/JSPTest/src/main/webapp/secondPage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/Servers/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/Servers/Tomcat v8.5 Server at localhost-config/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/Servers/Tomcat v8.5 Server at localhost-config/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/Servers/Tomcat v8.5 Server at localhost-config/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/Servers/Tomcat v8.5 Server at localhost-config/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/Servers/Tomcat v8.5 Server at localhost-config/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/Servers/Tomcat v8.5 Server at localhost-config/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletDataPjt/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletDataPjt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletDataPjt/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletDataPjt/src/main/java/com/servlet/ServeltGet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletDataPjt/src/main/java/com/servlet/ServletEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletDataPjt/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletDataPjt/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletMappingTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletMappingTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletMappingTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletMappingTest/src/main/java/com/servlet/ServletEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletMappingTest/src/main/java/com/servlet/ServletEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletMappingTest/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletMappingTest/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletTest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletTest/src/main/java/com/testPjt/ServletTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletTest/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/ServletTest/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/src/main/java/com/servlet/LoginCon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/src/main/java/com/servlet/LogoutCon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/src/main/webapp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/SessionPjt/src/main/webapp/loginOk.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjt/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjt/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjt/src/main/java/com/servlet/TestServletCalss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjt/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjtConfig/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjtConfig/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjtConfig/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjtConfig/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjtConfig/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/TestPjtConfig/src/main/webapp/jspEx.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/lec08pjt/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/lec08pjt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/lec08pjt/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/lec08pjt/src/main/java/com/servlet/MemSignUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/lec08pjt/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/lec08pjt/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Back_End/JSP&amp;Servelt/lec08pjt/src/main/webapp/formEx.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front_end/Project/multicampus_Project1/Project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/front_end/Project/multicampus_Project1/Project1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +110,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Back_End/Spring/Spring입문" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
