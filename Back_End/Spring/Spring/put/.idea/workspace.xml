@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d889c5e5-2fd3-42e7-89d7-2d51f06ec37b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../hello/hello/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/src/main/java/com/example/hello/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/src/main/java/com/example/hello/controller/ApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/src/main/java/com/example/hello/controller/GetApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/src/main/java/com/example/hello/dto/UserRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello/src/test/java/com/example/hello/HelloApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/control_body.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/control_style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/control_text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/controll_attribuete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/dom_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/dom_clock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/event_default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/event_inline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/event_inlineWithScript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/event_object.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/event_tradition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/select_all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/select_id.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter10.문서 객체 모델/select_query.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/HTMLPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/HTMLPageWithLink.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/HTMLPageWithOuterScript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/HTMLPageWithScript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/OuterjavaScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/exam09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/exam10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/exam11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/exam12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/image_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/list_unordered.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/nested_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/reference_textWithNbspSapce.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/table_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/table_span.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/text_anchor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/text_anchorInner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/text_content.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/text_font.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/text_header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/text_paragraph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/크롬.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter3.HTML5 기본태그/한빛.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/exam07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/exam08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/exam09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/form_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/form_group.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/form_radio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/form_selectBasic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/form_selectGroup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/space_block.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/space_inline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/space_semantic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter4.HTML5 입력 양식 태그와 구조화 태그/space_semanticLess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/attribure_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/default_class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/default_id.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/default_multiClass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/default_tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/default_wildcard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/desc_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/desc_childredn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/desc_descendants.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/etc_action.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/etc_state.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/etc_structure.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/selector_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/size_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/size_em.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/size_percent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter5.CSS3기초/size_pixel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/BackgroundBack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/BackgroundFront.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_attachmentFixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_attachmentScroll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_imageLayer copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_positionBottom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_positionEach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_repeatNone.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_size.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/background_sizeEach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/border_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/border_radius.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/border_radiusEach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/box_marginPadding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/box_marginPaddingEachFour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/box_marginPaddingEachTwo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/box_widthHeight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/display_block.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/display_inline-blockWithMargin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/display_inlineWithMargin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/display_none.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/exam11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/exam12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/exam13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/float_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/float_boxBasic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/float_boxLeft.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/float_boxRight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/font_family.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/font_familyEach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/font_lineHeightAfter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/font_lineHeightBefore.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/font_size.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/font_styleWeight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/font_textAlign.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/font_textDecoration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/gradient_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/hanbit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/position_absolute.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/position_absoluteLeftTop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/position_formulaBasic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/position_formulaHeight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/position_formulaOverflowHidden.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/position_formulaOverflowScroll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/position_formulaRelatve.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/position_zlndex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/shadow_boxShadow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/shadow_duplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter6.CSS3속성/shadow_textShadow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter7.다양한 레이아웃의 구성과 기능/example01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter7.다양한 레이아웃의 구성과 기능/example02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter7.다양한 레이아웃의 구성과 기능/example03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter7.다양한 레이아웃의 구성과 기능/example04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter7.다양한 레이아웃의 구성과 기능/example05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter7.다양한 레이아웃의 구성과 기능/example06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter7.다양한 레이아웃의 구성과 기능/example07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter7.다양한 레이아웃의 구성과 기능/excrcise02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/at_media_rule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/media_attribute.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/media_feature.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/orientation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/pattern1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/pattern2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/pattern3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/pattern4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/with_meta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter8.반응형 웹/without_meta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/condition_Date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/condition_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/condition_duplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/condition_getDate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/excrcise11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/excrcise12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/excrcise13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/funciton_priority.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/function_callback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/function_name.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/function_nanameCallback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/function_noname.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/function_priorityBetweenNoname.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/function_retrun.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/loop_array.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/loop_for.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/loop_while.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/object.create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/object_this.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/output_alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chapter9.자바스크립트기본문법/variable_use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqAnimate_animate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqAnimate_fade.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqAnimate_stop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_attrGet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_attrSetBasic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_attrSetFuntion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_attrSetObject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_classSet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_styleSetBasic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_styleSetFunction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_styleSetObject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_textHtmlGet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqControl_textHtmlSet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqEvent_click.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqEvent_hover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqEvent_on.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqEvent_preventDefault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jqEvent_withObject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/jquery_select.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/reference_animateWithChain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/reference_animateWithRelative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chatper11.jquery 라이브러리/reference_validate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/autofocus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/frameanimation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/gallery_ready.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/image5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/images/lightbox-blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/images/lightbox-btn-close.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/images/lightbox-btn-next.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/images/lightbox-btn-prev.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/images/lightbox-ico-loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/infinityScroll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/jquery.lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/jquery.lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/jqueryCreate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/jqueryCreateAppend_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/jqueryCreateAppend_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/jqueryMasonry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/rightbox_ready.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/thumb_image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/thumb_image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/thumb_image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/thumb_image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Front_End/HTML&amp;CSS/chpater12.자바스크립트와jQuery라이브러리 응용/thumb_image5.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="24GcQx1Y2i8WBDZEMSmO2nMIcb3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../API/delete" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PutApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.put.PutApplication" />
+      <module name="put.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.put.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PutApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d889c5e5-2fd3-42e7-89d7-2d51f06ec37b" name="Changes" comment="" />
+      <created>1643260353101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643260353101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
