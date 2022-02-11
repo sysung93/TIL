@@ -1,0 +1,90 @@
+.rgba-black-light {
+  background-color: rgba(255, 255, 255, 0.35);
+}
+
+.rgba-balck-string {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+/*Nav_bar*/
+
+.navbar .navbar-nav .nav-item {
+  font-size: 20px;
+  text-align: center;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+  color: rgb(0, 0, 0);
+}
+
+.navbar .navbar-nav .nav-item .nav-link_1 {
+  color: rgb(0, 0, 0);
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+  color: #1b1919 !important;
+  font-size: 0.85rem;
+}
+
+.navbar .navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+#logo{
+  font-size: 40px;
+  color: rgb(235, 201, 52);
+  font-weight: 900;
+}
+
+#memberimg{
+  margin: initial;
+}
+
+/* 메인슬라이드 */
+
+.carouselslide{
+  position: absolute;
+}
+
+.carousel-inner {
+  position: relative;
+  height: 500px;
+  top: 110px;
+}
+
+.carousel-indicators {
+  position: absolute;
+  top: 550px;
+}
+
+.carousel-control-prev {
+  top: 200px;
+}
+.carousel-control-next {
+  top: 200px;
+}
+
+/*Prodect*/
+
+#product {
+  background-color: rgba(100, 160, 230, 0.966);
+  position: relative;
+  top: 110px;
+}
+
+#product .divider {
+  width: 10%;
+  margin: 2rem auto;
+  border-top: 2px solid #000;
+}
+
+#product .product-item .card {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 12rem;
+  transition: 0.3s ease-in-out
+}

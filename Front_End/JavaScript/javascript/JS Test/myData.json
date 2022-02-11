@@ -1,0 +1,6 @@
+{
+  "name" : "RYON",
+  "age" : 5,
+  "marriage" : false,
+  "data" : [2, 5, null]
+}
