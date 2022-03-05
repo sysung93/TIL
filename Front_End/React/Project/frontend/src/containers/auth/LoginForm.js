@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { changeField, initializeForm, login } from '../../modules/auth';
 import AuthForm from '../../components/auth/AuthForm';
@@ -6,6 +6,7 @@ import { check } from '../../modules/user';
 import { useNavigate } from 'react-router-dom';
 
 const LoginForm = () => {
+  const [error, setError] = useState(null);
   const navigate = useNavigate();
   const dispatch = useDispatch();
   const { form, auth, authError, user } = useSelector(({ auth, user }) => ({
@@ -43,7 +44,7 @@ const LoginForm = () => {
     if (authError) {
       console.log('오류 발생');
       console.log(authError);
-      //setError('로그인 실패');
+      setError('아이디 또는 패스워드를 확인해주세요');
       return;
     }
     if (auth) {
@@ -55,6 +56,12 @@ const LoginForm = () => {
   useEffect(() => {
     if (user) {
       navigate('/');
+      //사용자 정보를 localStorage에 저장
+      try {
+        localStorage.setItem('user', JSON.stringify(user));
+      } catch (e) {
+        console.log('localStorage is not working')
+      }
     }
   }, [navigate, user]);
 
@@ -64,6 +71,7 @@ const LoginForm = () => {
       form={form}
       onChange={onChange}
       onSubmit={onSubmit}
+      error={error}
     />
   );
 };
