@@ -1,7 +1,7 @@
 function solution(n, arr) {
   let answer;
   answer = arr.filter(function (v, i) {
-    if(arr.indexOf(v) === i) {
+    if (arr.indexOf(v) === i) {
       return true;
     }
   });
