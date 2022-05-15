@@ -15,7 +15,8 @@ function solution(arr) {
       if (total - sum === sum) answer = "YES";
       flag = 1;
     } else {
-      // 다음원소 진행, sum에 누적하기
+      // 다음원소 진행, sum에
+       누적하기
       DFS(L + 1, sum + arr[L]);
 
       // 다음원소 진행, sum 누적 안함
