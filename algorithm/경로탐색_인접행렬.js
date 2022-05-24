@@ -4,7 +4,7 @@ function solution(n, arr) {
   let graph = Array.from(Array(n + 1), () => Array(n + 1).fill(0));
   let ch = Array.from({ length: n + 1 }, () => 0);
 
-  // 인접행렬을 2차원 배열로 만들기
+  // 인접행렬 만들기
   for (let [a, b] of arr) {
     graph[a][b] = 1;
   }
