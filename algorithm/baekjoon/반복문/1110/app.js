@@ -21,11 +21,11 @@ function solution(N) {
     }
 
     makeNum = ten + one;
-    
+
     let makeNumOne;
-    
+
     // 다음 숫자의 일의자리 만들기
-    // 만든 숫자가 10보다 크면 1의 자리에 있는 숫자를 
+    // 만든 숫자가 10보다 크면 1의 자리에 있는 숫자를
     // 다음에 만들어질 숫자 1의 자리로 만들기
     if (makeNum >= 10) {
       makeNumOne = +String(makeNum)[1];
