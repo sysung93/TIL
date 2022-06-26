@@ -19,7 +19,7 @@ function solution(testCaseArray) {
   // 에라토스테네스의체 만들기
   // max의 제곱근까지 반복
   for (let i = 2; i <= Math.ceil(Math.sqrt(max)); i++) {
-    // isPrimeArr이 true이면 
+    // isPrimeArr이 true이면
     if (isPrimeArr[i]) {
       let k = 2;
       // [i * k]배수에 해당하는 인덱스 false로 바꾸기
@@ -35,7 +35,7 @@ function solution(testCaseArray) {
     if (testCaseArray[i] === 0) {
       break;
     }
-    
+
     // n = n , dn = n * 2
     let n = testCaseArray[i];
     let dn = testCaseArray[i] * 2;
