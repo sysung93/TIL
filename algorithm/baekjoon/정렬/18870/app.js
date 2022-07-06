@@ -61,7 +61,7 @@ function solution(N, coordinate) {
   [...set].forEach((num, idx) => {
     map.set(num, idx);
   });
-
+  console.log(map);
   let answer = "";
 
   // 원본배열을 돌면서 map에 저장된 idx 가져오기
