@@ -23,7 +23,7 @@ function solution(triangleSide) {
     // x, y, z가 0이면 종료
     if (x === 0 && y === 0 && z === 0) {
       return;
-      // 대각선이 어떤것인지 모르므로 
+      // 대각선이 어떤것인지 모르므로
       // x, y, z 각각이 제일 길다는 가정하에 조건 걸기
     } else if (x === y + z || y === x + z || z === x + y) {
       console.log("right");
