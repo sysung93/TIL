@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- google meterial icon cdn -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- css style 초기화, css 연결 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="../public/stylesheets/common.css">
+  <link rel="stylesheet" href="../public/stylesheets/Help.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <!-- js 라이브러리 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="../public/js/index.js"></script>
+  <title>Frequntly Asked Questions</title>
+</head>
+<body>
+  <div>
+    <!-- header -->
+    <header><%- include('nav.html') %></header>
+
+    <!-- 화면 -->
+    <div>
+      <div class="faq_container container">
+        <h1 class="faq_title">Frequently Asked Questions</h1>
+          <div class="faq_categories">
+            <p class="faq_categories_title faq_categories_title_isActive active">My Account</p>
+            <p class="faq_categories_title">ProductCare & Sizing</p>
+            <p class="faq_categories_title">Orders & Payment</p>
+            <p class="faq_categories_title">Klarna</p>
+            <p class="faq_categories_title">Shipping & Tracking</p>
+            <p class="faq_categories_title">Returns</p>
+            <p class="faq_categories_title">Engravalbe Jewelry</p>
+            <p class="faq_categories_title">Sustainability</p>
+            <p class="faq_categories_title">Brand Ambassador</p>
+            <p class="faq_categories_title">Club AL</p>
+            <p class="faq_categories_title">Influencers</p>
+          </div>
+          <div class="faq_content">
+            <div class="faq_content_questions">
+              <div class="faq_content_question active">
+                <p>HOW DO I CREAET AN ACCOUNT?</p>
+              </div>
+              <div class="faq_content_question">
+                <p>HOW DO I MAKE CHANGES TO MY ACCOUNT?</p>
+              </div>
+              <div class="faq_content_question">
+                <p>I'M HAVING TROUBLE LOGGING INTO MY ACCOUNT</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="faq_content"></div>
+      </div>
+    </div>
+
+    <!-- footer -->
+    <footer></footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/style.css">
+  <script src="/test.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <title>Document</title>
+</head>
+<body>
+
+<h1>처리된 요구사항 : 하나의 내용이 활성화 되면 다른 내용은 나오지 말아야 합니다.</h1>
+<h1>다음 요구사항 : 메뉴아이템이 클릭되면 활성화 디자인이 적용되어야 합니다. 즉 li클 클릭하면 해당 li만 active 클래스를 가져야 합니다.</h1>
+
+<div class="part-5">
+    <div class="head">
+        <!--
+        ul>li*4>a[href=#]{메뉴 아이템 $}
+        -->
+        <ul>
+            <li class="active"><a href="#">메뉴 아이템 1</a></li>
+            <li><a href="#">메뉴 아이템 2</a></li>
+            <li><a href="#">메뉴 아이템 3</a></li>
+            <li><a href="#">메뉴 아이템 4</a></li>
+        </ul>
+    </div>
+    <div class="body">
+        <!--
+        div*4
+        -->
+        <div class="active">내용 1</div>
+        <div>내용 2</div>
+        <div>내용 3</div>
+        <div>내용 4</div>
+    </div>
+</div>
+</body>
+</html>

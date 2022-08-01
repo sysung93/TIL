@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  
+<!--브라우저 스타일 초기화-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css" />
+<!--Google Fonts - 나눔고딕-->
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet" />
+<!--Google Material Icons-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+<link rel="stylesheet" href="../public/stylesheets/common.css" />
+<!-- jquery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script defer type="text/javascrpt" src="../public/js/search.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/public/stylesheets/common.css">
+<link rel="stylesheet" href="/public/stylesheets/login.css">
+<title>Ana luisa</title>
+</head>
+<body>
+  
+  <header>
+    <%- include('nav.html') %>
+  </header>
+
+  <div>
+    <div class="account_login">
+      <div class="account_login_nav">
+        <a class="account_login_nav_current" href="/account/login/#">LOGIN</a>
+        <a href="/account/register">CREATE AN ACCOUNT</a>
+      </div>
+      <form class="account_login_form" action="/account/login" method="POST">
+        <label class="account_login_form_label" for="">
+          ID
+          <input class="account_login_form_input" type="text" name="id">
+        </label>
+        <label class="account_login_form_label" for="">
+          PASSWORD
+          <input class="account_login_form_input" type="password" name="pw">
+        </label>
+        <button type="submit" class="form_btn btn">
+          <div class="btn_wrap">
+            <span class="btn_text">LOGIN</span>
+          </div>
+        </button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>

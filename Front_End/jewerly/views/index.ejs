@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- 폰트 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap" rel="style1sheet">
+    <!-- google meterial icon cdn -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <!-- css style 초기화, css 연결 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../public/stylesheets/common.css">
+    <link rel="stylesheet" href="../public/stylesheets/index.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <!-- js 라이브러리 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js" integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="../public/js/index.js"></script>
+    <!-- swiper 연결 -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper@6.8.4/swiper-bundle.min.css" />
+    <script src="https://unpkg.com/swiper@6.8.4/swiper-bundle.min.js"></script>
+    <!-- scrollMagic -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js" integrity="sha512-8E3KZoPoZCD+1dgfqhPbejQBnQfBXe8FuwL4z/c8sTrgeDMFEnoyTlH3obB4/fV+6Sg0a0XF+L/6xS4Xx1fUEg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <title>Ana Luisa</title>
+</head>
+<body>
+  <header><%- include('nav.html') %></header>
+  <!-- visual -->
+  <section class="visual container">
+    <div class="inner">
+      <div class="mainVisual">
+        <img class="img-fluid" src="../public/images/main_visual.jpg" alt="main_visual">
+        <div class="mainVisual-left">
+          <div class="mainContent">
+            <p>March Madness Sale</p>
+            <h1>20% OFF SITEWIDE</h1>
+            <div class="btn-group">
+              <a href="javascript:void(0)" class="btn">찾아오시는 길</a>
+              <a href="javascript:void(0)" class="btn">신규입점제외</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="PopularCategories container">
+    <h2>Popular categories</h2>
+    <div class="Popular-style container">
+      <a href="#">
+        <div class="PopularImg">
+          <img src="../public/images/Popular-category-earrings.jpg" alt="PopularEarring">
+        </div>
+        <p>Earings</p>
+      </a>
+      <a href="#">
+        <div class="PopularImg">
+          <img src="../public/images/Popular-category-necklaces.jpg" alt="Popularnecklaces">
+        </div>
+        <p>Necklaces</p>
+      </a>
+      <a href="#">
+        <div class="PopularImg">
+          <img src="../public/images/Popular-category-rings.jpg" alt="Popularringx">
+        </div>
+        <p>Rings</p>
+      </a>
+      <a href="#">
+        <div class="PopularImg">
+          <img src="../public/images/Popular-category-bracelets.jpg" alt="PopularBracelets">
+        </div>
+        <p>Bracelets</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- colletion -->
+  <section>
+    <div class="collection container">
+      <div class="collectionTile">
+        <a href="#">
+          <div class="collectionTileWrapper ">
+            <img src="../public/images/2022-MarchMadness-HP-Under-49-desktop.jpg" alt="">
+          </div>
+          <div class="collectionTilebtn btn">
+            <span class="collectionTilebtnText">UNDER &#8361 69700</span>
+          </div>
+        </a>
+      </div>
+      <div class="collectionTile">
+        <a href="#">
+          <div class="collectionTileWrapper">
+            <img src="../public/images/2022-MarchMadness-HP-Pearls-and-more-mobile.jpg" alt="">
+          </div>
+          <div class="collectionTilebtn btn">
+            <span class="collectionTilebtnText">PEARLS & MORE</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="collection container">
+      <div class="collectionTile">
+        <a href="#">
+          <div class="collectionTileWrapper ">
+            <img src="../public/images/2022-MarchMadness-HP-Hoops-Forever-desktop.jpg" alt="Hoops">
+          </div>
+          <div class="collectionTilebtn btn">
+            <span class="collectionTilebtnText">HOOPS FOREVER</span>
+          </div>
+        </a>
+      </div>
+      <div class="collectionTile">
+        <a href="#">
+          <div class="collectionTileWrapper">
+            <img src="../public/images/2022-MarchMadness-HP-New-arrivals-desktop.jpg" alt="newArrivals">
+          </div>
+          <div class="collectionTilebtn btn">
+            <span class="collectionTilebtnText">NEW ARRIVALS</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+  <!-- Best Seller -->
+  <!-- <section>
+    <div class="bestSellerWrapper">
+      <div class="recommended">
+        <div class="productContainer">
+          <div class="recommendHeader">
+            <p class="recommendHeaderTitle">Best Seller</p>
+          </div>
+        </div>
+        <div class="swiper mySwiper">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers1.webp" alt="BestSellers1">
+                  </div>
+                  <div>
+                    <p class="product-title">Toda</p>
+                    <div>
+                      <p class="product-price">&#8361 108600</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers2.webp" alt="BestSellers2">
+                  </div>
+                  <div>
+                    <p class="product-title">Mini Huggie Hoops</p>
+                    <div>
+                      <p class="product-price">&#8361 85400</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers3.webp" alt="BestSellers3">
+                  </div>
+                  <div>
+                    <p class="product-title">Frida</p>
+                    <div>
+                      <p class="product-price">&#8361 56800</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers4.webp" alt="BestSellers4">
+                  </div>
+                  <div>
+                    <p class="product-title">Meesh</p>
+                    <div>
+                      <p class="product-price">&#8361 137500</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers5.webp" alt="BestSellers5">
+                  </div>
+                  <div>
+                    <p class="product-title">Letter Necklace</p>
+                    <div>
+                      <p class="product-price">&#8361 85100</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers6.webp" alt="BestSellers6">
+                  </div>
+                  <div>
+                    <p class="product-title">Paris</p>
+                    <div>
+                      <p class="product-price">&#8361 108600</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers7.webp" alt="BestSellers7">
+                  </div>
+                  <div>
+                    <p class="product-title">Celete</p>
+                    <div>
+                      <p class="product-price">&#8361 108600</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers8.webp" alt="BestSellers8">
+                  </div>
+                  <div>
+                    <p class="product-title">Suzanne</p>
+                    <div>
+                      <p class="product-price">&#8361 85400</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers9.webp" alt="BestSellers9">
+                  </div>
+                  <div>
+                    <p class="product-title">Ina</p>
+                    <div>
+                      <p class="product-price">&#8361 108600</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers10.webp" alt="BestSellers10">
+                  </div>
+                  <div>
+                    <p class="product-title">Rowena Bracelet</p>
+                    <div>
+                      <p class="product-price">&#8361 108600</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers11.webp" alt="BestSellers11">
+                  </div>
+                  <div>
+                    <p class="product-title">Rox Small</p>
+                    <div>
+                      <p class="product-price">&#8361 108600</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers12.webp" alt="BestSellers12">
+                  </div>
+                  <div>
+                    <p class="product-title">Michelle Set</p>
+                    <div>
+                      <p class="product-price">&#8361 166500</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers13.webp" alt="BestSellers13">
+                  </div>
+                  <div>
+                    <p class="product-title">Elise Pendant</p>
+                    <div>
+                      <p class="product-price">&#8361 56800</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers14.webp" alt="BestSellers14">
+                  </div>
+                  <div>
+                    <p class="product-title">Rop Slim</p>
+                    <div>
+                      <p class="product-price">&#8361 71000</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers15.webp" alt="BestSellers15">
+                  </div>
+                  <div>
+                    <p class="product-title">Scarlett</p>
+                    <div>
+                      <p class="product-price">&#8361 71000</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="swiper-slide">
+              <a href="#">
+                <span></span>
+                <div class="product-wrapper">
+                  <div class="">
+                    <img src="../public/images/BestSellers16.webp" alt="BestSellers16">
+                  </div>
+                  <div>
+                    <p class="product-title">Temple Green</p>
+                    <div>
+                      <p class="product-price">&#8361 166500</p>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+     
+      <div class="recommendContentIndicator">
+        <span class="recommendContentIndicatorcurrent">&nbsp;</span>
+      </div>
+    </div>
+  </section> -->
+</body>
+<footer><%- include('footer.html') %></header>
+</html>

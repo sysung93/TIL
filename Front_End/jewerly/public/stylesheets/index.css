@@ -1,0 +1,232 @@
+.visual .inner .mainVisual{
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 120px;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.visual .inner .mainVisual .mainVisual-left{
+  display: block;
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 0 80px;
+  top: 0;
+}
+
+.visual .inner .mainVisual .mainContent p{
+  display: block;
+  position: absolute;
+  width: 100%;
+  margin: 0 0 20px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #f8f187;
+  top: 30%
+}
+
+.visual .inner .mainVisual .mainContent h1{
+  display: block;
+  position: absolute;
+  width: 100%;
+  font-size: 50px;
+  font-weight: bolder;
+  color: #f8f187;
+  top: 40%
+}
+
+.visual .inner .btn-group{
+  position: absolute;
+  top: 70%;
+}
+
+.visual .inner .btn-group .btn:first-child{
+  margin-right: 20px;
+}
+
+/* PopularCategories */
+.PopularCategories {
+  box-sizing: border-box;
+  display: block;
+  padding: 70px 75px 90px;
+}
+
+.PopularCategories h2{
+  padding: 0 0 30px 5px;
+  font-size: 35px;
+  letter-spacing: .1px;
+  line-height: 42px;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  font-weight: bold;
+}
+
+.PopularCategories .Popular-style{
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.PopularCategories .Popular-style a {
+  margin: 0 5px;
+  position: relative;
+  text-decoration: none;
+  width: calc(25% - 10px);
+}
+.PopularCategories .Popular-style .PopularImg{
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.PopularCategories .Popular-style .PopularImg img{
+  height: auto;
+  width: 100%;
+}
+
+.PopularCategories .Popular-style p{
+  display: block;
+  font-size: 24px;
+  letter-spacing: .2px;
+  line-height: 30px;
+  margin: 0;
+  text-decoration: none;
+  color: black;
+}
+
+/* collection */
+ 
+.collection {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 80px 90px;
+}
+
+.collection .collectionTile {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: 50%;
+}
+
+.collection .collectionTile:nth-last-child(2n){
+  margin-right: 8px;
+}
+
+.collection .collectionTile a{
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-decoration: none;
+}
+
+.collection .collectionTile .collectionTileWrapper{
+  display: block;
+  height: 100%;
+
+}
+
+.collection .collectionTile .collectionTileWrapper img{
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.collection .collectionTile .collectionTilebtn{
+  bottom: 36px;
+  position: absolute;
+  text-transform: uppercase;
+  width: 50%;
+}
+
+.collection .collectionTile .collectionTilebtn .collectionTilebtnText{
+  line-height: 40px;
+  padding: 0 35px;
+}
+
+/* Best Seller */
+.bestSellerWrapper .recommended{
+  margin: 0 auto 45px;
+}
+
+.bestSellerWrapper .recommended .productContainer {
+  padding: 90px 80px 45px;
+}
+
+.recommendHeader .recommendHeaderTitle{
+  font-size: 35px;
+  letter-spacing: .1px;
+  line-height: 42px;
+  margin-bottom: 30px;
+}
+
+.bestSellerWrapper .recommended .swiper .swiper-wrapper .swiper-slide a{
+  align-items: center;
+  color: #000;
+  display: flex;
+  margin-right: 11px;
+  position: relative;
+  text-decoration: none;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.product-title {
+  margin: 12px 0 5px;
+  font-size: 16px;
+  letter-spacing: .2px;
+  line-height: 22px;
+}
+
+.product-price{
+  font-size: 16px;
+  letter-spacing: .2px;
+  line-height: 22px;
+  align-items: center;
+  display: flex;
+}
